@@ -14,7 +14,7 @@ For the sake of simplicity, use the `make serve` command for your development. T
 Anyway this script is not only used for Go but can also be used for other programming languages, just replace what needs to be replaced.
 
 ## Docker Usage
-This script can be used with the docker. If you're using docker just include this file in root project folder with mounted volume on your docker container. 
+This script can be used with the docker. If you're using docker just include this script in root project folder with mounted volume on your docker container. 
 
 I've made a docker image for this, just pull from the docker hub. Currently this docker image using Go 1.13.6 and it's size about 600Mb++ (only used for development, Not production).
 
